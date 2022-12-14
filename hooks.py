@@ -11,7 +11,7 @@ app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
 #app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 #app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
-app_logo_url = "/assets/erpnext/images/logo_ops.svg"
+app_logo_url = "/assets/erpnext/images/logo_ops2.svg"
 required_apps = ["payments"]
 
 
@@ -89,7 +89,7 @@ website_context = {
 	#"favicon": "/assets/erpnext/images/erpnext-favicon.svg",
 	"favicon": "/assets/erpnext/images/ops_favicon.svg",
 	#"splash_image": "/assets/erpnext/images/erpnext-logo.svg",
-	"splash_image": "/assets/erpnext/images/logo_ops.svg",
+	"splash_image": "/assets/erpnext/images/logo_ops2.svg",
 
 }
 
