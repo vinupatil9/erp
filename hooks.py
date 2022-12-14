@@ -87,7 +87,9 @@ website_generators = ["Item Group", "Website Item", "BOM", "Sales Partner"]
 
 website_context = {
 	"favicon": "/assets/erpnext/images/erpnext-favicon.svg",
-	"splash_image": "/assets/erpnext/images/erpnext-logo.svg",
+	#"splash_image": "/assets/erpnext/images/erpnext-logo.svg",
+	"splash_image": "/assets/erpnext/images/logo_ops.svg",
+
 }
 
 # nosemgrep
@@ -436,7 +438,8 @@ scheduler_events = {
 	],
 }
 
-email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+#email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+email_brand_image = "assets/erpnext/images/logo_ops.png"
 
 default_mail_footer = """
 	<span>
